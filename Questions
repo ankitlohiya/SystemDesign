@@ -1,0 +1,160 @@
+SYSTEM DESIGN:
+
+Good Knowledge in Distributed system
+
+https://practice.geeksforgeeks.org/courses/system-design?vb=136
+
+https://www.geeksforgeeks.org/design-data-structures-for-a-very-large-social-network-like-facebook-or-linkedln/
+
+https://github.com/shashank88/system_design
+
+https://github.com/donnemartin/system-design-primer
+
+https://github.com/shashank88/system_design
+
+https://www.udemy.com/course/preparing-for-system-design-interviews/
+
+https://gist.github.com/vasanthk/485d1c25737e8e72759f
+
+https://career.guru99.com/software-design-interview-questions/
+
+youtune:
+gauravsen
+Narendra L
+Tushar Roy
+
+
+===========================================================================================================================
+QUESITONS:
+
+How to Design Twitter (Part 2)
+Design News Feed System (Part 1)
+Design News Feed System (Part 2)
+How to Design a Trending Algorithm for Twitter
+Design TinyURL or bitly
+Design YouTube, Netflix
+Design Facebook Messenger or WhatsApp
+Designing Quora or Reddit or HackerNews 
+Design Dropbox or Google Drive or Google Photos
+Design Facebook, Twitter or Instagram
+Design Uber or Lyft 
+Design a Web Crawler or Type-Ahead
+Design an API Rate Limiter
+Design Yelp or Nearby Places/Friends 
+How to design the Vending Machine in Java
+How to design a traffic control system?
+How to design a limit order book? 
+How to design a Web Crawler like Google?
+How to design a global ride-hailing service e.g. Uber, Grab, or Ola backend
+How to design BookMyShow?
+Design Search Typeahead
+Design an API Rate Limiter
+Design Logistic System
+Design City Guide System like Foursquare
+Design OYO
+Design Chess Game
+Design google’s Autocomplete feature.
+Given a chess board of size m*n. A knight is present at some initial position. Find the minimum number of moves so that it can move to some given final location.
+Design a tank game.
+How deployment works on multiple server machines.
+Sharding in databases. How facebook would shard it users database
+Design a traffic signal starting with all use cases, HLD, LLD
+Design an elevator system
+Design a system to upload images and tag them, ability to search images with two or more tags particular tags.
+Longest Possible Chunked Palindrome
+Design a scalable meeting room booking system.
+Design Amazon Locker
+Design doctor appointment System.
+Design a room booking system
+Design pacman game 
+Design Facebook Timeline 
+Design Amazon Flash Sales System 
+How to Scale it for multi-million users
+Design File Convertor like converting xml to Json, etc with all the classes and relations .
+Design an Email client. should be having all features of email-client.
+Design like/unlike feature of facebook, when some one uploads a photo.
+How do u notify to users who have already liked the photo.(Observer pattern)
+10 million users like the photo at the same time, how do you handle such scenario.
+Solution:(duplicate the photo instance in multiple servers based on load balance and do parallel reduction technique to do like++(lock like in each server) for each server and then broadcast the number of l ikes to other servers )
+ I was then asked to design cache. He gave me various scenarios like how will make the system fault tolerant if one machine goes down. We also discussed about push and pull affinity, he said running stream of records will come and you have some n machines. How will you store these records and then fetch them.
+ Time Scheduling Problem
+ Design parking lot system
+ Design restaurant finder app.
+ Design a RangeSet class where you can Add, Delete and search in a optimized way
+ designing a cache.
+ Design system which tells how many stations exist between 2 stations and trains which run between them.
+ Design a system like one which facebook has, where you get live feeds from your friend.
+ Discuss logging framework
+Discuss event dispatcher
+Design a n reader writer class.
+Design a service which talks to three other google calanedar like serices and merges those calendars in a single view for a user .
+Designing autocomplete API of the search engine
+Design Snake and LAdder Game
+Design ecommerce store like amazon
+Design online shopping using Microservices architechture
+Design recommendation sstem like netfilx
+Design health monitoring system to score overall health
+Design image classification system
+Design a app for “Restaurant table booking” :
+Design Conference Room Allocation system considering the time and number of rooms available constraints.
+Design a data structure for updating an object efficiently in a multithreaded environment. (critical section problem)
+Design notification system. Here he mentioned you have the database and records are stored.
+Design a mobile directory 
+Desing coderpad
+Design a system to upload images and tag them, ability to search images with two or more tags particular tags
+Design a online shipment tracking system.
+Design a geographically partitioned multi-player card game, that supports multiple players, multiple games at a time. Each game will have one contractor like ones we have in a bar, He can play a game or just watch it. integrate payment systems.
+First HLD was required, use cases, flow diagram. then a low level design was required all necessary classes where will u use polymorphism, where inheritance, multithreading, synchronised approach if needed, socket connections. 
+Other things that surfaced and he asked as interview goes : round robin load balancer, hash-map based load balancer, two layer caching, nosql db, design patterns, solid principles, ACID property, CAP theorem etc. 
+Design a solution to search the given value in system. You are given a value which need to be searched. The system will respond basis of type.
+If its app based it will return app names. if it is web based it will return web pages hitsetc. A detailed discussion design and development.
+Design inventory system. (eg: library)
+Deep design level discussion on one project that I have worked on
+Design cricinfo live score page
+Design Splitwise
+Design Dating application. HLD, then specific discussion of profile search and ranking based on the users’ interest. Discussion on making it scalable.
+Design an aggregator service that would be serving various services to a lot of clients. Discussion on how this service can hand billions of data in a request. Code for the service.
+Design spelling checker web service.
+design a furniture selling site
+Design the payment module of the Uber App.
+Design LudoKing
+Design a Music Player application 
+Design Gmail – consider scalability , redundancy, brief discussion on CAP Theorem, class diagrams,
+Design Debugger 
+Design App-Store.
+Write code for Sudoku Validator in most optimal time and space complexity ?
+Design Restaurant booking application HLD and LLD. Write an algorithm to optimally assign tables for bookings.
+Design RedBus 
+HLD of Clock Room
+Design VLC.
+Do integration for Splitwise app with Amazon Pay
+Design a job scheduler, scalability, fault tolerance, high availability, how scheduler picks up job,
+Design a deck of card
+Design Promo Code API taking Amazon’s customer traffic into picture (HLD and LLD was discussed – including in memory databases)
+draw HLD for meeting calendar system
+==============================================================================================================================
+ Problem Solving:
+1) LeetCode – Solve Top 150 questions of Google and 250medium and 250 hard problems  + 50 written Mock interviews .
+2) GeeksforGeeks – To understand concepts behind LeetCode problems .
+
+Low Level Design:
+ 1.Grokking Object Oriented Design Interview
+ 2.Head First Design patterns
+
+
+High Level Design:
+ 1.Grokking System Design Interview
+ 2.HighScalability Blog – All time favorites section
+ 3.Youtube Channel by TechDummies-Narendra L
+
+Pramp:
+In-person Mock interviews – 15
+
+#################################################################################
+
+I haven’t been through head first design pattern book before the interview but currently going through it . So, I feel this book will definitely help you in developing thought process of Low Level Design.
+Practice is the key, make sure you give 2-3 hrs of day time for interview preparation sincerely .
+Note: You can know more about me www.xcodedoctor.com
+
+
+	  
