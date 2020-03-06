@@ -1,27 +1,5 @@
 SYSTEM DESIGN:
 
-Good Knowledge in Distributed system
-
-https://practice.geeksforgeeks.org/courses/system-design?vb=136
-
-https://www.geeksforgeeks.org/design-data-structures-for-a-very-large-social-network-like-facebook-or-linkedln/
-
-https://github.com/shashank88/system_design
-
-https://github.com/donnemartin/system-design-primer
-
-https://github.com/shashank88/system_design
-
-https://www.udemy.com/course/preparing-for-system-design-interviews/
-
-https://gist.github.com/vasanthk/485d1c25737e8e72759f
-
-https://career.guru99.com/software-design-interview-questions/
-
-youtune:
-gauravsen
-Narendra L
-Tushar Roy
 
 
 ===========================================================================================================================
@@ -133,28 +111,6 @@ Design a deck of card
 Design Promo Code API taking Amazon’s customer traffic into picture (HLD and LLD was discussed – including in memory databases)
 draw HLD for meeting calendar system
 ==============================================================================================================================
- Problem Solving:
-1) LeetCode – Solve Top 150 questions of Google and 250medium and 250 hard problems  + 50 written Mock interviews .
-2) GeeksforGeeks – To understand concepts behind LeetCode problems .
-
-Low Level Design:
- 1.Grokking Object Oriented Design Interview
- 2.Head First Design patterns
-
-
-High Level Design:
- 1.Grokking System Design Interview
- 2.HighScalability Blog – All time favorites section
- 3.Youtube Channel by TechDummies-Narendra L
-
-Pramp:
-In-person Mock interviews – 15
-
-#################################################################################
-
-I haven’t been through head first design pattern book before the interview but currently going through it . So, I feel this book will definitely help you in developing thought process of Low Level Design.
-Practice is the key, make sure you give 2-3 hrs of day time for interview preparation sincerely .
-Note: You can know more about me www.xcodedoctor.com
-
+ 
 
 	  
